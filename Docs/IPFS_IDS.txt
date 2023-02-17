@@ -1,0 +1,2 @@
+Images/tamagotchi.png - QmYNdnZH9kvDY3pWsMjr4MnrahuMSgnvSoTRDRTkZAVih7
+Metadata/metadata_example.json - QmZ7kVTK9Sazsm9qnFhMsUcG29BnB7sgWmrWCuPvfhR3gd
